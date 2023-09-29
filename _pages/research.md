@@ -4,6 +4,27 @@ permalink: /research/
 author_profile: true
 ---
 
+## Investors Data Availability and Price Elasticity
+
+<!---
+<span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
+-->
+
+[[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - [[SSRN]](http://srrnLINK)
+
+
+
+## Test Paper-Project
+*with XYZ* 
+
+
+<span style="color:lightslategrey"> Presentations: XYZ (2023)  </span> 
+
+
+[[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - [[SSRN]](http://srrnLINK)
+
+
+ 
 ## Financial Intermediaries and Demand for Duration
 
 *with A. Tamoni, and A. Plazzi* 

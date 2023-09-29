@@ -13,6 +13,10 @@ I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano.
 
 My research focuses on the **Impact of Data and New Technologies in Finance**.
 
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+
+
 <!---
 I am currently studying how firms use data to improve performance.
 {: .notice}
