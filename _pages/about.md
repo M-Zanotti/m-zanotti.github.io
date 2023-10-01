@@ -15,7 +15,7 @@ I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano.
 My research focuses on the **Impact of Data and New Technologies in Finance**.
 {: .notice}
 -->
-My research focuses on **Asset Management** and the role of **Data and Information in Finance**.
+My research focuses on the role of **Data & Information in Finance**, and **Asset Management**.
 
 Currently, I am visiting HEC Paris Finance Department.
 
