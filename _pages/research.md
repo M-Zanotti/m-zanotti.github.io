@@ -7,10 +7,12 @@ author_profile: true
 ## Work in progress
 
 
-<!---
 
+<!--
 
 ## The Horizon of Investors' Information Production 
+
+--> 
 
 <!---
 <span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
@@ -20,8 +22,8 @@ author_profile: true
 [[PDF]]() - [[SSRN]]()
 -->
 
+<!--
 
- 
 ## [Financial Intermediaries and Demand for Duration](http://srrnLINK)
 
 *with A. Tamoni, and A. Plazzi* 
@@ -30,13 +32,19 @@ author_profile: true
 
 [[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - [[SSRN]](http://srrnLINK)
 
+-->
 
 
+
+
+<!--
 
 ## The Horizon of Investors' Information Production 
 
+-->
+
 <!---
-<span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
+<span style="color:lightslategrey"> Presentations: XYZ  </span> 
 -->
 
 <!--- 
@@ -44,20 +52,6 @@ author_profile: true
 -->
 
  
- 
- 
-## Test Paper-Project
-*with XYZ* 
-
-
-<span style="color:lightslategrey"> Presentations: XYZ (2023)  </span> 
-
-
-[[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - [[SSRN]](http://srrnLINK)
-
-
--->
-
 
 
 
