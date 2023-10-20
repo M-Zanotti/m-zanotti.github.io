@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco Zanotti"
-  avatar           : "profile_pic2.jpg"
+  avatar           : "profile_2.jpg"
   bio              : "PhD Student in Finance <br /> Swiss Finance Institute @USI" 
   location         : "Lugano, Switzerland"
   employer         : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "M-Zanotti"
+  github           : # "M-Zanotti"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-  ssrn             : "index.cfm/en/"
+  ssrn             :  "sol3/cf_dev/AbsByAuth.cfm?per_id=6068585"
 
 
 # Reading Files

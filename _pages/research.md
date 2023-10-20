@@ -22,7 +22,7 @@ author_profile: true
 [[PDF]]() - [[SSRN]]()
 -->
 
-<!--
+
 
 ## [Financial Intermediaries and Demand for Duration](http://srrnLINK)
 
@@ -30,7 +30,11 @@ author_profile: true
 
 <span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
 
-[[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - [[SSRN]](http://srrnLINK)
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
+
+<!--
+
+[[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - 
 
 -->
 
