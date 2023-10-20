@@ -28,7 +28,7 @@ author_profile: true
 
 *with A. Tamoni, and A. Plazzi* 
 
-<span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
+<span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors (2023).  </span> 
 
 
 <!--
