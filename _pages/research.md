@@ -24,15 +24,16 @@ author_profile: true
 
 
 
-## [Financial Intermediaries and Demand for Duration](http://srrnLINK)
+## [Financial Intermediaries and Demand for Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
 
 *with A. Tamoni, and A. Plazzi* 
 
 <span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
 
 <!--
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
 
 [[PDF]](http://m-zanotti.github.io/files/paper1.pdf) - 
 
