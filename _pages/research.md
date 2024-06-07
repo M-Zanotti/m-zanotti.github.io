@@ -32,7 +32,7 @@ author_profile: true
 
 
 
-## [Financial Accelerator in the Age of Big Data]()
+## Financial Accelerator in the Age of Big Data
 
 *with G. Bezzi* 
 
