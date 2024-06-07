@@ -9,7 +9,7 @@ author_profile: true
 Risk Management
 :   Master in Finance, USI Lugano
 :   Prof. A. Plazzi
-:   *Spring 2022, 2023*
+:   *Spring 2022, 2023, 2024*
 
 Asset Pricing Models
 :   Master in Quantitative Finance, University of Verona

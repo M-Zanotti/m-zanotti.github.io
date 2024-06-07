@@ -28,7 +28,15 @@ author_profile: true
 
 *with A. Tamoni, and A. Plazzi* 
 
-<span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors (2023).  </span> 
+<span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR </span> 
+
+
+
+## [Financial Accelerator in the Age of Big Data]()
+
+*with G. Bezzi* 
+
+<span style="color:lightslategrey"> Main presentations: USI Lugano; SFI Research Days  </span> 
 
 
 <!--
