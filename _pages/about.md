@@ -15,11 +15,24 @@ I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano.
 My research focuses on the **Impact of Data and New Technologies in Finance**.
 {: .notice}
 -->
-My research focuses on the role of **New Technologies in Finance and Asset Management**.
+
+My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
 
 
 <!---
-Currently, I am visiting HEC Paris Finance Department.
+My research focuses on the role of **New Technologies in Finance and Asset Management**.
+-->
+
+
+<!---
+My research focuses on financial markets and institutions. 
+I study how new technologies affect firms and institutions.
+I study the role of new technologies in finance.
+-->
+
+
+<!---
+Currently, I am visiting Georgetown University's McDonough School of Business.
 -->
 
 
