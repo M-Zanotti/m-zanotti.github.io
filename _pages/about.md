@@ -16,6 +16,7 @@ My research focuses on the **Impact of Data and New Technologies in Finance**.
 {: .notice}
 -->
 
+<<<<<<< HEAD
 
 <!---
 My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
@@ -27,6 +28,7 @@ My research focuses on **Information and Financial Markets**, with a focus on:
 * Asset Management
 * Data Economy
 * Institutional Investors
+>>>>>>> 4b07abf981fa7f8e8506fb37b0cecce52f163ac8
 
 
 <!---

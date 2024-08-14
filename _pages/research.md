@@ -36,7 +36,9 @@ author_profile: true
 
 *with G. Bezzi* 
 
+<<<<<<< HEAD
 <span style="color:lightslategrey"> Main presentations: USI Lugano; SFI Research Days; SASCA PhD Conference  </span> 
+>>>>>>> 4b07abf981fa7f8e8506fb37b0cecce52f163ac8
 
 
 <!--
