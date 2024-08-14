@@ -22,7 +22,7 @@ My research focuses on the impact of **new technologies on Financial Markets and
 -->
 
 
-My research focuses on **Information and Financial Markets**, with a focus on:
+My research is on **Information and Financial Markets**, with a focus on:
 
 * Asset Management
 * Data Economy
