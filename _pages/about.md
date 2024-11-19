@@ -40,6 +40,9 @@ I study how new technologies affect firms and institutions.
 I study the role of new technologies in finance.
 -->
 
+<!---
+I am on the 2025-26 academic job market.
+-->
 
 Currently, I am visiting Georgetown University's McDonough School of Business.
 
