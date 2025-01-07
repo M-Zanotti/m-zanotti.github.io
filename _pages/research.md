@@ -28,7 +28,7 @@ author_profile: true
 
 *with A. Tamoni, and A. Plazzi* 
 
-<span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR </span> 
+<span style="color:lightslategrey"> Main presentations: SFI Research Days &middot 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors &middot HEC Paris PhD Brown Bag &middot MFA &middot SGF &middot 7<sup>th</sup> WSIR &middot 1<sup>st</sup> IFEA Conference </span>
 
 
 
@@ -36,7 +36,7 @@ author_profile: true
 
 *with G. Bezzi* 
 
-<span style="color:lightslategrey"> Main presentations: USI Lugano; SFI Research Days; SASCA PhD Conference  </span> 
+<span style="color:lightslategrey"> Main presentations: USI Lugano &middot SFI Research Days &middot SASCA PhD Conference  </span> 
 
 
 <!--
