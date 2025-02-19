@@ -44,8 +44,10 @@ I study the role of new technologies in finance.
 I am on the 2025-26 academic job market.
 -->
 
-Currently, I am visiting Georgetown University's McDonough School of Business.
 
+<!---
+Currently, I am visiting Georgetown University's McDonough School of Business.
+-->
 
 <!---
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
