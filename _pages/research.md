@@ -6,7 +6,7 @@ author_profile: true
 
 ## Working paper
 
-## [Financial Intermediaries and Demand for Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
+[**Financial Intermediaries and Demand for Duration**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
 
 *with A. Tamoni, and A. Plazzi* 
 <details>
