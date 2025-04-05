@@ -32,7 +32,7 @@ My research is on **Information and Financial Markets**, with a focus on:
 
 ## Job Market Paper
 
-<span style="font-size: 1.25em; font-weight: bold;">Asset (and Data) Managers</span>
+<span style="font-size: 1.4em; font-weight: bold;">Asset (and Data) Managers</span>
 
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
