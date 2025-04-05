@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hi! \
-I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano.
+I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano. \
+I will be on the 2025-2026 academic job market.
 
 <!---
 My research focuses on the **Impact of Data and New Technologies in Finance**.
@@ -29,6 +30,30 @@ My research is on **Information and Financial Markets**, with a focus on:
 * Institutional Investors
 
 
+## Job Market Paper
+
+# [Asset (and Data) Managers]
+
+<details>
+  <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
+  <p>
+This paper studies the direct impact of new technologies on the asset management industry.
+I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
+Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics. 
+Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
+Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
+This evidence highlights the economic importance of managers learning from investors’ data.
+</p>
+</details>
+
+
+<!---
+<span style="color:lightslategrey"> Main presentations: SGF Conference; USI Lugano; 7<sup>th</sup> FutFinInfo; WFA; 32<sup>nd</sup> Finance Forum; FMARC Doctoral Tutorial </span>
+-->
+
+
+
+
 <!---
 My research focuses on the role of **New Technologies in Finance and Asset Management**.
 -->
@@ -40,9 +65,6 @@ I study how new technologies affect firms and institutions.
 I study the role of new technologies in finance.
 -->
 
-<!---
-I am on the 2025-26 academic job market.
--->
 
 
 <!---
