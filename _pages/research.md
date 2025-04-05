@@ -9,6 +9,9 @@ author_profile: true
 [**Financial Intermediaries and Demand for Duration**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
 
 *with A. Tamoni, and A. Plazzi* 
+
+<span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
+
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
   <p>
@@ -19,9 +22,6 @@ In the cross section, unconstrained institutions tilt their portfolio more stron
 We conclude that institutional constraints impair the ability to seek for the hedging properties of long-duration claims, to the point that institutions may be forced to leave their “preferred-habitat” allocation. 
 Counterfactual analysis shows that shifts in preference for duration generate sizeable effects in the cross-section of stocks, with a stronger impact on firms with long-term cash flows.  </p>
 </details>
-
-
-<span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
 
 <!--
 
