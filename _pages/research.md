@@ -4,9 +4,27 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper
+
+<span style="font-size: 1.4em;">Asset (and Data) Managers</span>
+
+<details>
+  <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
+  <p>
+This paper studies the direct impact of new technologies on the asset management industry. 
+I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
+Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics. 
+Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
+Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
+This evidence highlights the economic importance of managers learning from investors’ data.
+</p>
+</details>
+
 ## Working paper
 
-[**Financial Intermediaries and Demand for Duration**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
+<span style="font-size: 1.4em;">Financial Intermediaries and Demand for Duration</span>
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
 
 *with A. Tamoni, and A. Plazzi* 
 
@@ -23,39 +41,18 @@ We conclude that institutional constraints impair the ability to seek for the he
 Counterfactual analysis shows that shifts in preference for duration generate sizeable effects in the cross-section of stocks, with a stronger impact on firms with long-term cash flows.  </p>
 </details>
 
-<!--
 
-## The Horizon of Investors' Information Production 
-
---> 
-
-<!---
-<span style="color:lightslategrey"> Presentations: SFI Research Days (2023); 4<sup>th</sup> LTI@UniTO/Bank of Italy workshop on Long-Term Investors (2023).  </span> 
--->
-
-<!--- 
-[[PDF]]() - [[SSRN]]()
--->
 
 ## Work in progress
 
-## Asset (and Data) Managers
-
-<!---
-*Job Market Paper*
-
-<span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
--->
-
-
-## Financial Accelerator in the Age of Big Data
+<span style="font-size: 1.4em;">Financial Accelerator in the Age of Big Data</span>
 
 *with G. Bezzi* 
 
 <span style="color:lightslategrey"> Main presentations: USI Lugano; SFI Research Days; SASCA PhD Conference  </span> 
 
 
-## The Value of Data: Asset Prices in a Data Economy
+<span style="font-size: 1.4em;">The Value of Data: Asset Prices in a Data Economy</span>
 
 *with G. Bezzi* 
 
