@@ -6,7 +6,8 @@ author_profile: true
 
 ## Job Market Paper
 
-<span style="font-size: 1.4em;">Asset (and Data) Managers</span>
+<span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
+<span style="font-size: 1.15em;">*Recipient of the Inquire Europe 2025 Research Prize*</span> 
 
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
@@ -23,7 +24,7 @@ This evidence highlights the economic importance of managers learning from inves
 ## Working paper
 
 <span style="font-size: 1.4em;">Financial Intermediaries and Demand for Duration</span> <span style="margin-left: 10px;"> [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046) <br>
-*with Andrea Tamoni, and Alberto Plazzi* 
+*with Andrea Tamoni, and Alberto Plazzi*  
 
 <span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
 
@@ -42,15 +43,13 @@ Counterfactual analysis shows that shifts in preference for duration generate si
 
 ## Work in progress
 
-<span style="font-size: 1.4em;">Financial Accelerator in the Age of Big Data</span>
-
+<span style="font-size: 1.4em;">Financial Accelerator in the Age of Big Data</span> <br>
 *with G. Bezzi* 
 
 <span style="color:lightslategrey"> Main presentations: USI Lugano; SFI Research Days; SASCA PhD Conference  </span> 
 
 
-<span style="font-size: 1.4em;">The Value of Data: Asset Prices in a Data Economy</span>
-
+<span style="font-size: 1.4em;">The Value of Data: Asset Prices in a Data Economy</span> <br>
 *with G. Bezzi* 
 
 <!---
