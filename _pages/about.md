@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! \
 I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano. \
 I will be on the 2025-2026 academic job market.
 
@@ -32,7 +31,7 @@ My research is on **Information and Financial Markets**, with a focus on:
 
 ## Job Market Paper
 
-<span style="font-size: 1.4em;">Asset (and Data) Managers</span>
+<span style="margin-left: 10px;"><span style="font-size: 1.4em;">Asset (and Data) Managers</span> \ *Recipient of the Inquire Europe 2025 Research Prize* 
 
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>

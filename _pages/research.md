@@ -22,9 +22,7 @@ This evidence highlights the economic importance of managers learning from inves
 
 ## Working paper
 
-<span style="font-size: 1.4em;">Financial Intermediaries and Demand for Duration</span> <span style="margin-left: 10px;"> [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)
-
-*with Andrea Tamoni, and Alberto Plazzi* 
+<span style="font-size: 1.4em;">Financial Intermediaries and Demand for Duration</span> <span style="margin-left: 10px;"> [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046) \ *with Andrea Tamoni, and Alberto Plazzi* 
 
 <span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; HEC Paris PhD Brown Bag; MFA; SGF; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
 
