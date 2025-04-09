@@ -7,7 +7,7 @@ author_profile: true
 ## Job Market Paper
 
 <span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
-<span style="font-size: 1.15em;">*Recipient of the Inquire Europe 2025 Research Prize*</span> 
+<span style="font-size: 1.10em; color:lightslategrey">*Recipient of the Inquire Europe 2025 Research Prize*</span> 
 
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
