@@ -34,9 +34,9 @@ My research is on **Information and Financial Markets**, with a focus on:
 <span style="margin-left: 10px;"><span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:lightslategrey">*Recipient of the Inquire Europe 2025 Research Prize*</span> 
 
-<span style="margin-left: 10px;">**Abstract:** <br>
-<span style="margin-left: 10px;">This paper studies the direct impact of new technologies on the asset management industry.<br> 
-<span style="margin-left: 10px;">I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
+**Abstract:** <br>
+This paper studies the direct impact of new technologies on the asset management industry.<br> 
+I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
 Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics. 
 Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
 Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
