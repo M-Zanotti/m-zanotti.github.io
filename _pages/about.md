@@ -32,8 +32,10 @@ My research is on **Information and Financial Markets**, with a focus on:
 ## Job Market Paper
 
 <span style="margin-left: 10px;"><span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
+<div class="notice--info" markdown="1">
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:lightslategrey">*WFA Brattle Group Ph.D. Candidate Award For Outstanding Research 2025*</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:lightslategrey">*Recipient of the Inquire Europe 2025 Research Prize*</span> 
+</div>
 
 **Abstract:** <br>
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
