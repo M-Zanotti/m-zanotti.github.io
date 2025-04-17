@@ -32,19 +32,19 @@ My research is on **Information and Financial Markets**, with a focus on:
 ## Job Market Paper
 
 <span style="margin-left: 10px;"><span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:lightslategrey">*WFA Brattle Group Ph.D. Candidate Award For Outstanding Research 2025*</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">*Recipient of the Inquire Europe 2025 Research Prize*</span> 
-
+<ul style="margin-left: 30px; font-size: 1.05em; color: dimgray; margin-top: 5px; margin-bottom: 10px;">
+  <li><em>WFA Brattle Group Ph.D. Candidate Award for Outstanding Research (2025)</em></li>
+  <li><em>Recipient of the Inquire Europe 2025 Research Prize</em></li>
+</ul>
 
 **Abstract:** <br>
-<div class="notice--info" markdown="1">
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
 I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
 Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics. 
 Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
 Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
 This evidence highlights the economic importance of managers learning from investors’ data.
-</div>
+
 
 <!---
 <span style="color:lightslategrey"> Main presentations: SGF Conference; USI Lugano; 7<sup>th</sup> FutFinInfo; WFA; 32<sup>nd</sup> Finance Forum; FMARC Doctoral Tutorial </span>
