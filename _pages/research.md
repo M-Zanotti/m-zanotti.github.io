@@ -7,7 +7,7 @@ author_profile: true
 ## Job Market Paper
 
 <span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *WFA Brattle Group Ph.D. Candidate Award For Outstanding Research (2025)*</span> <br>
+<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *WFA Brattle Group Ph.D. Candidate Award (2025)*</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *Recipient of the Inquire Europe 2025 Research Prize*</span> 
 
 <details>
