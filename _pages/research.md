@@ -30,6 +30,8 @@ This evidence highlights the economic importance of managers learning from inves
 *with Andrea Tamoni, and Alberto Plazzi*  
 <span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; MFA; SGF; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
 
+<div style="margin-top: -10px;"></div>
+
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
   <p>
@@ -42,14 +44,14 @@ Counterfactual analysis shows that shifts in preference for duration generate si
 </details>
 
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 25px;"></div>
 
 
-<span style="font-size: 1.4em;">The Value of Data-Driven Decision-Making: Evidence from online customer data</span> <br>
+<span style="font-size: 1.4em;">The Value of Data-Driven Decision-Making: Evidence from Online Customer Data</span> <br>
 *with Laurent Frésard, and Alberto Plazzi* 
 
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 25px;"></div>
 
 
 <span style="font-size: 1.4em;">Asset Prices in a Data Economy</span> <br>
