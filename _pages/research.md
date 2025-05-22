@@ -11,6 +11,7 @@ author_profile: true
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *WFA Brattle Group Ph.D. Candidate Award (2025)*</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*</span> <br>
 
+<div style="margin-top: -10px;"></div>
 
 <details>
   <summary style="font-weight:bold; cursor:pointer;">Abstract</summary>
