@@ -45,6 +45,12 @@ We conclude that institutional constraints impair the ability to seek for the he
 Counterfactual analysis shows that shifts in preference for duration generate sizeable effects in the cross-section of stocks, with a stronger impact on firms with long-term cash flows.  </p>
 </details>
 
+<div style="margin-top: 25px;"></div>
+
+
+<span style="font-size: 1.4em;">Are New Technologies Replacing the Information Produced by Financial Markets?</span> <br>
+*with Laurent Frésard* 
+
 
 <div style="margin-top: 25px;"></div>
 
