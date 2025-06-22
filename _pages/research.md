@@ -49,7 +49,7 @@ Counterfactual analysis shows that shifts in preference for duration generate si
 
 
 <span style="font-size: 1.4em;">Are New Technologies Replacing the Information Produced by Financial Markets?</span> <br>
-*with <a href="https://sites.google.com/view/laurentfresard/home"><u>Laurent Frésard</u></a>*
+*with <a href="https://sites.google.com/view/laurentfresard/home" style="text-decoration: underline; color: inherit;">Laurent Frésard</a>*
 
 
 <div style="margin-top: 25px;"></div>
