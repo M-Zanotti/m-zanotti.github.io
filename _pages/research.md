@@ -49,14 +49,14 @@ Counterfactual analysis shows that shifts in preference for duration generate si
 
 
 <span style="font-size: 1.4em;">Are New Technologies Replacing the Information Produced by Financial Markets?</span> <br>
-*with Laurent Frésard* 
+*with <a href="https://sites.google.com/view/laurentfresard/home"><u>Laurent Frésard</u></a>*
 
 
 <div style="margin-top: 25px;"></div>
 
 
 <span style="font-size: 1.4em;">The Value of Data-Driven Decision-Making: Evidence from Online Customer Data</span> <br>
-*with Laurent Frésard, and Alberto Plazzi* 
+*with <a href="https://sites.google.com/view/laurentfresard/home"><u>Laurent Frésard</u></a>, and Alberto Plazzi* 
 
 
 <div style="margin-top: 25px;"></div>
