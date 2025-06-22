@@ -29,7 +29,7 @@ This evidence highlights the economic importance of managers learning from inves
 ## Working paper
 
 <span style="font-size: 1.4em;">Financial Intermediaries and Demand for Duration</span> <span style="margin-left: 10px;"> [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046) <br>
-*with Andrea Tamoni, and Alberto Plazzi*  
+*with <a href="https://www.andreatamoni.com" target="_blank" style="text-decoration: none; color: inherit;">Andrea Tamoni</a>, and <a href="https://sites.google.com/site/albertoplazzihome/home" target="_blank" style="text-decoration: none; color: inherit;">Alberto Plazzi</a>*  
 <span style="color:lightslategrey"> Main presentations: SFI Research Days; 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors; MFA; SGF Conference; 7<sup>th</sup> WSIR; 1<sup>st</sup> IFEA Conference </span>
 
 <div style="margin-top: -10px;"></div>
@@ -49,14 +49,14 @@ Counterfactual analysis shows that shifts in preference for duration generate si
 
 
 <span style="font-size: 1.4em;">Are New Technologies Replacing the Information Produced by Financial Markets?</span> <br>
-*with <a href="https://sites.google.com/view/laurentfresard/home" target="_blank" style="text-decoration: underline; color: inherit;">Laurent Frésard</a>*
+*with <a href="https://sites.google.com/view/laurentfresard/home" target="_blank" style="text-decoration: none; color: inherit;">Laurent Frésard</a>*
 
 
 <div style="margin-top: 25px;"></div>
 
 
 <span style="font-size: 1.4em;">The Value of Data-Driven Decision-Making: Evidence from Online Customer Data</span> <br>
-*with <a href="https://sites.google.com/view/laurentfresard/home" target="_blank" style="text-decoration: underline; color: inherit;">Laurent Frésard</a>, and Alberto Plazzi* 
+*with <a href="https://sites.google.com/view/laurentfresard/home" target="_blank" style="text-decoration: none; color: inherit;">Laurent Frésard</a>, and <a href="https://sites.google.com/site/albertoplazzihome/home" target="_blank" style="text-decoration: none; color: inherit;">Alberto Plazzi</a>* 
 
 
 <div style="margin-top: 25px;"></div>
