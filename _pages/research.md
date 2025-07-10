@@ -9,6 +9,7 @@ author_profile: true
 <span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *Recipient of the Inquire Europe 2025 Research Prize*</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *WFA Brattle Group Ph.D. Candidate Award*</span> <br>
+<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*</span> <br>
 <span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *FMARC Best Ph.D. Student Paper*</span> <br>
 
