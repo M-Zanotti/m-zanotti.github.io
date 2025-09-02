@@ -21,7 +21,7 @@ Job Market Paper
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
 I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
 Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics. <br>
-Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
+Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies. <br> 
 Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
 This evidence highlights the economic importance of managers learning from investors’ data.
 <br>
