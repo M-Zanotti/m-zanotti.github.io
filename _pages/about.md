@@ -12,12 +12,6 @@ I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano. \
 I will be on the 2025-2026 academic job market.
 
 <!---
-My research focuses on the **Impact of Data and New Technologies in Finance**.
-{: .notice}
--->
-
-
-<!---
 My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
 -->
 
@@ -29,16 +23,29 @@ My research is on **Information and Financial Markets**, with a focus on:
 * Asset Management
 
 
-## Job Market Paper
+Job Market Paper
+=========
 
-<span style="margin-left: 10px;"><span style="font-size: 1.4em;">Asset (and Data) Managers</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *Recipient of the Inquire Europe 2025 Research Prize*</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *WFA Brattle Group Ph.D. Candidate Award*</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*</span> <br>
-<span style="margin-left: 10px;"><span style="font-size: 1.05em; color:dimgray">&middot; *FMARC Best Ph.D. Student Paper*</span> <br>
+**1. Asset (and Data) Managers**\
+This version: November 2025\
+  \[<a href="#/" onclick="visib('MFData_Econ')">Abstract</a>\]
+*Recipient of the Inquire Europe 2025 Research Prize*\
+*WFA Brattle Group Ph.D. Candidate Award*\
+*INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
+*Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
+*FMARC Best Ph.D. Student Paper*\
+<div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
+This paper studies the direct impact of new technologies on the asset management industry.<br> 
+I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
+Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics. 
+Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
+Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
+This evidence highlights the economic importance of managers learning from investors’ data.
+<br>
+</div>
 
 
+<!---
 
 **Abstract:** <br>
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
@@ -47,6 +54,7 @@ Exploiting information from their websites’ codes, I track when fund managers 
 Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies.
 Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
 This evidence highlights the economic importance of managers learning from investors’ data.
+-->
 
 
 <!---
@@ -97,6 +105,19 @@ I am currently studying how firms use data to improve performance.
 
 
 ------
+
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
 
 
 
