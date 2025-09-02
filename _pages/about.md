@@ -25,10 +25,9 @@ My research is on **Information and Financial Markets**, with a focus on:
 
 Job Market Paper
 =========
-
-**1. Asset (and Data) Managers**\
-This version: November 2025\
-  \[<a href="#/" onclick="visib('MFData_Econ')">Abstract</a>\]
+---
+**Asset (and Data) Managers**\
+  <a href="#/" onclick="visib('MFData_Econ')">Abstract</a> \
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
