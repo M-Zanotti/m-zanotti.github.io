@@ -27,7 +27,7 @@ Job Market Paper
 =========
 ---
 
-<span style="display:block; font-size:1.4em; margin-bottom:6px;">
+<span style="display:block; font-size:1.2em; margin-bottom:6px;">
   **Asset (and Data) Managers**
 </span>
 *Recipient of the Inquire Europe 2025 Research Prize*\
