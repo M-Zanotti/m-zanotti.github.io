@@ -25,7 +25,7 @@ Working Papers
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper*\
-  <a href="#/" onclick="visib('MFData_Econ')">Abstract</a> 
+  Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
 I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
