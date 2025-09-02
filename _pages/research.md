@@ -27,7 +27,7 @@ Working Papers
 <br style="line-height:0.05em;">
 ▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF, FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
-                                              Verona, SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity Conference<sup>*</sup> </span> \
+                                              SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity Conference<sup>*</sup> </span> \
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
