@@ -16,11 +16,9 @@ Working Papers
 -->
 
 <span style="display:block; font-size:1.10em; margin-bottom:6px;">
-  **1. Asset (and Data) Managers** &thinsp &thinsp;
+  **1. Asset (and Data) Managers** &ensp;
   <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
-
-
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
