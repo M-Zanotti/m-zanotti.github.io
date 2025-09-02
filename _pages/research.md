@@ -4,13 +4,22 @@ permalink: /research/
 author_profile: true
 ---
 
-Job Market Paper
-=========
+Working Papers
+==============
 ---
 
+
+<!---
 <span style="display:block; font-size:1.10em; margin-bottom:6px;">
   **1. Asset (and Data) Managers**
 </span>
+-->
+
+<span style="display:flex; justify-content:space-between; align-items:baseline; font-size:1.10em; margin-bottom:6px;">
+  <strong>1. Asset (and Data) Managers</strong>
+  <span style="white-space:nowrap; color:dimgray;">Job Market Paper</span>
+</span>
+
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
@@ -27,10 +36,6 @@ This evidence highlights the economic importance of managers learning from inves
 <br>
 </div> <br style="line-height:0.10em;">
 
-
-Working Papers
-==============
----
 
 **2. Financial Intermediaries and Demand for Duration**\
    with [Andrea Tamoni](https://www.andreatamoni.com/) and [Alberto Plazzi](https://sites.google.com/site/albertoplazzihome/home)\
