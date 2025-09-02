@@ -24,7 +24,7 @@ Working Papers
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper*\
-▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, SGF, 32<sup>nd</sup> Finance Forum, FMARC Doctoral Tutorial, Verona, Trans-Atlantic Doctoral Conference, USI Lugano, SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity Conference<sup>*</sup> </span>
+▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, SGF, 32<sup>nd</sup> Finance Forum, FMARC Doctoral Tutorial, Verona, Trans-Atlantic Doctoral Conference, USI Lugano, SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity Conference<sup>*</sup> </span> \
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
@@ -40,7 +40,7 @@ This evidence highlights the economic importance of managers learning from inves
 **2. Financial Intermediaries and Demand for Duration**\
    with [Andrea Tamoni](https://www.andreatamoni.com/) and [Alberto Plazzi](https://sites.google.com/site/albertoplazzihome/home)\
 This version: August 2025\
-▪ <span class="light-grey">Main Presentations: MFA, 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors, SGF, 7<sup>th</sup> World Symposium on Investment Research, SFI Research Days, 1<sup>st</sup> IFEA Conference, EUROFIDAI Paris December Finance Meeting<sup>*</sup></span>
+▪ <span class="light-grey">Main Presentations: MFA, 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors, SGF, 7<sup>th</sup> World Symposium on Investment Research, SFI Research Days, 1<sup>st</sup> IFEA Conference, EUROFIDAI Paris December Finance Meeting<sup>*</sup></span> \
 ▪ Abstract <a href="#/" onclick="visib('Fin_DemandDur')">[+]</a> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)\] \[[PDF](../files/Financial_Intermediaries_and_Demand_for_Duration.pdf)\]
 <div id="Fin_DemandDur" style="display: none; text-align: justify; line-height: 1.2" >
 Stocks with long-term cash flows earn lower expected returns because they hedge fluctuations in investment opportunities. We study the role of financial institutions in shaping this duration premium using equity holdings of primary dealers, pension funds, banks, and insurance companies. We find that intermediaries’ demand for equity duration varies systematically with their risk-bearing capacity. In the time series, institutions reduce their demand for long-duration claims and increase their exposure to reinvestment risk when aggregate capital ratios are low. Such a result extends cross-sectionally: better-capitalized and better-performing institutions tilt their portfolios more strongly toward long-duration stocks than their constrained peers. These patterns align with an ICAPM framework in which hedging demand declines with risk aversion. Counterfactual exercises show that shifts in intermediaries’ preferences generate monotonic changes in expected returns across duration deciles, with especially large effects when demand shocks operate at the holding-company level.
