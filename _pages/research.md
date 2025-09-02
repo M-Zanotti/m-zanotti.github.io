@@ -16,11 +16,9 @@ Working Papers
 -->
 
 <span style="display:block; font-size:1.10em; margin-bottom:6px;">
-  **1. Asset (and Data) Managers** &thinsp;
-  <span style="white-space:nowrap; color:dimgray;">Job Market Paper</span>
+  **1. Asset (and Data) Managers** &thinsp &thinsp;
+  <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
-
-
 
 
 *Recipient of the Inquire Europe 2025 Research Prize*\
