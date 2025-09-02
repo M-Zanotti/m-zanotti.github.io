@@ -108,15 +108,13 @@ I am currently studying how firms use data to improve performance.
 
 [//]: This java script is the button to show abstract
 <script>
-function visib(id){
-  var el = document.getElementById(id);
-  if(!el) return false;
-  var hidden = window.getComputedStyle(el).display === 'none';
-  el.style.display = hidden ? 'block' : 'none';
-  if (event && event.currentTarget) {
-    event.currentTarget.setAttribute('aria-expanded', hidden ? 'true' : 'false');
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
   }
-  return false; // prevent the link from jumping
 }
 </script>
 
