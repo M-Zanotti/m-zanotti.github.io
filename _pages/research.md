@@ -15,10 +15,13 @@ Working Papers
 </span>
 -->
 
-<span style="display:flex; justify-content:space-between; align-items:baseline; font-size:1.10em; margin-bottom:6px;">
-  <strong>1. Asset (and Data) Managers</strong>
+<span style="display:block; font-size:1.10em; margin-bottom:6px;">
+  **1. Asset (and Data) Managers** &thinsp;
   <span style="white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
+
+
+
 
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
