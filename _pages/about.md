@@ -27,12 +27,12 @@ Job Market Paper
 =========
 ---
 **Asset (and Data) Managers**\
-  <a href="#/" onclick="visib('MFData_Econ')">Abstract</a> \
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
-*FMARC Best Ph.D. Student Paper*\
+*FMARC Best Ph.D. Student Paper*
+  <a href="#/" onclick="visib('MFData_Econ')">Abstract</a> \
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
 I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
@@ -108,16 +108,17 @@ I am currently studying how firms use data to improve performance.
 
 [//]: This java script is the button to show abstract
 <script>
- function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
+function visib(id){
+  var el = document.getElementById(id);
+  if(!el) return false;
+  var hidden = window.getComputedStyle(el).display === 'none';
+  el.style.display = hidden ? 'block' : 'none';
+  if (event && event.currentTarget) {
+    event.currentTarget.setAttribute('aria-expanded', hidden ? 'true' : 'false');
   }
+  return false; // prevent the link from jumping
 }
 </script>
-
 
 
 <!---
