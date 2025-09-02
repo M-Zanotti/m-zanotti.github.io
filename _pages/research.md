@@ -24,6 +24,7 @@ Working Papers
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper*\
+▪ Main Presentations: <span class="light-grey">WFA, 7<sup>th</sup> Future of Financial Information Conference, SGF, 32<sup>nd</sup> Finance Forum, FMARC Doctoral Tutorial, Verona, Trans-Atlantic Doctoral Conference, USI Lugano, SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity Conference<sup>*</sup> </span>
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
@@ -53,7 +54,7 @@ Stocks with long-term cash flows earn lower expected returns because they hedge 
 
 
 
-
+[//]: This java script is the button to show abstract
 <script>
  function visib(id) {
   var x = document.getElementById(id);
@@ -65,6 +66,12 @@ Stocks with long-term cash flows earn lower expected returns because they hedge 
 }
 </script>
 
+
+[//]: This line define the color for "light-grey"
+
+<style>
+  .light-grey { color:#9ca3af; }  /* adjust to taste: #a3a3a3, #999, etc. */
+</style>
 
 
 <!---
