@@ -27,6 +27,7 @@ Job Market Paper
 =========
 ---
 **Asset (and Data) Managers**\
+<div style="height:6px;"></div>
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
@@ -68,21 +69,6 @@ My research focuses on the role of **New Technologies in Finance and Asset Manag
 -->
 
 
-<!---
-My research focuses on financial markets and institutions. 
-I study how new technologies affect firms and institutions.
-I study the role of new technologies in finance.
--->
-
-
-
-<!---
-Currently, I am visiting Georgetown University's McDonough School of Business.
--->
-
-<!---
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
--->
 
 <!---
 I am currently studying how firms use data to improve performance.
