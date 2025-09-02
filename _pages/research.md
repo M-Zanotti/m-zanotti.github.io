@@ -25,7 +25,7 @@ Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀ
 Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
 This evidence highlights the economic importance of managers learning from investors’ data.
 <br>
-</div> <br style="line-height:0.35em;">
+</div> <br style="line-height:0.30em;">
 
 
 Working Papers
@@ -39,7 +39,8 @@ This version: August 2025\
 <div id="Fin_DemandDur" style="display: none; text-align: justify; line-height: 1.2" >
 Stocks with long-term cash flows earn lower expected returns because they hedge fluctuations in investment opportunities. We study the role of financial institutions in shaping this duration premium using equity holdings of primary dealers, pension funds, banks, and insurance companies. We find that intermediaries’ demand for equity duration varies systematically with their risk-bearing capacity. In the time series, institutions reduce their demand for long-duration claims and increase their exposure to reinvestment risk when aggregate capital ratios are low. Such a result extends cross-sectionally: better-capitalized and better-performing institutions tilt their portfolios more strongly toward long-duration stocks than their constrained peers. These patterns align with an ICAPM framework in which hedging demand declines with risk aversion. Counterfactual exercises show that shifts in intermediaries’ preferences generate monotonic changes in expected returns across duration deciles, with especially large effects when demand shocks operate at the holding-company level.
 <br>
-</div> <br style="line-height:0.50em;">
+<IMG src="../files/01_PrimaryDealers_durDemand_andHKM_.png"  alt="Fin_DemandDur"/>
+</div> <br style="line-height:0.30em;">
 
 
 **3. Are New Technologies Replacing the Information Produced by Financial Markets?**\
