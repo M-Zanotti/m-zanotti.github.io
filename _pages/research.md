@@ -26,6 +26,7 @@ Overall, these results show that technological innovation in asset management ex
 This evidence highlights the economic importance of managers learning from investors’ data.
 <br>
 </div>
+==============
 
 
 Working Papers
@@ -35,15 +36,16 @@ Working Papers
 **2. Financial Intermediaries and Demand for Duration**\
    with [Andrea Tamoni](https://www.andreatamoni.com/) and [Alberto Plazzi](https://sites.google.com/site/albertoplazzihome/home)\
 This version: August 2025\
-  \[<a href="#/" onclick="visib('Fin_DemandDur')">Abstract</a>\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)\]\ \[[PDF](../files/Financial_Intermediaries_and_Demand_for_Duration.pdf)\]\
+  <a href="#/" onclick="visib('Fin_DemandDur')">Abstract</a> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)\] \[[PDF](../files/Financial_Intermediaries_and_Demand_for_Duration.pdf)\]
 <div id="Fin_DemandDur" style="display: none; text-align: justify; line-height: 1.2" >
 Stocks with long-term cash flows earn lower expected returns because they hedge fluctuations in investment opportunities. We study the role of financial institutions in shaping this duration premium using equity holdings of primary dealers, pension funds, banks, and insurance companies. We find that intermediaries’ demand for equity duration varies systematically with their risk-bearing capacity. In the time series, institutions reduce their demand for long-duration claims and increase their exposure to reinvestment risk when aggregate capital ratios are low. Such a result extends cross-sectionally: better-capitalized and better-performing institutions tilt their portfolios more strongly toward long-duration stocks than their constrained peers. These patterns align with an ICAPM framework in which hedging demand declines with risk aversion. Counterfactual exercises show that shifts in intermediaries’ preferences generate monotonic changes in expected returns across duration deciles, with especially large effects when demand shocks operate at the holding-company level.
 <br>
 </div>
+==============
 
 
 **3. Are New Technologies Replacing the Information Produced by Financial Markets?**\
-   with [Laurent Frésard](https://sites.google.com/view/laurentfresard/home)\
+   with [Laurent Frésard](https://sites.google.com/view/laurentfresard/home)
 
 
 
