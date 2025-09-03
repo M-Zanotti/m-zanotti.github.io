@@ -15,7 +15,7 @@ Working Papers
 </span>
 -->
 
-<span style="display:block; font-size:1.10em; margin-bottom:0px;">
+<span style="display:block; font-size:1.10em; margin-bottom:15px;">
   **1. Asset (and Data) Managers** &ensp;
   <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
