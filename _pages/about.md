@@ -35,7 +35,7 @@ Job Market Paper
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper*\
-<hr style="margin:4px 0;border:0;border-top:1px solid rgba(0,0,0,.15);">
+<hr style="margin:2px 0;border:0;border-top:1px solid rgba(255, 255, 255,1);">
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
