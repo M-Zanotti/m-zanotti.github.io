@@ -27,7 +27,7 @@ Job Market Paper
 =========
 ---
 
-<span style="display:block; font-size:1.2em; margin-bottom:6px;">
+<span style="display:block; font-size:1.2em; margin-bottom:5px;">
   **Asset (and Data) Managers**
 </span>
 *Recipient of the Inquire Europe 2025 Research Prize*\
@@ -35,7 +35,7 @@ Job Market Paper
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper*\
-<hr style="margin:2px 0;border:0;border-top:-4px solid rgba(255, 255, 255,1);">
+<br style="line-height:2.0em;">
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
