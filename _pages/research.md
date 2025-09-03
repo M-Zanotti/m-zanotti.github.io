@@ -19,12 +19,13 @@ Working Papers
   **1. Asset (and Data) Managers** &ensp;
   <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
+<p style="margin-bottom:4px">
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper* 
-<hr style="margin:2px 0;border:0;border-top:0px solid rgba(255, 255, 255,1);">
+</p>
 ▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF, FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
                                               SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity <br>&nbsp;&nbsp;&nbsp;&nbsp;
