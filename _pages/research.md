@@ -24,7 +24,7 @@ Working Papers
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper* 
-<br style="line-height:0.05em;">
+<div style="height:6px;"></div>
 ▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF, FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
                                               SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity <br>&nbsp;&nbsp;&nbsp;&nbsp;
