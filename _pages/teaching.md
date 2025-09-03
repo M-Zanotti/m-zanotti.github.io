@@ -2,6 +2,7 @@
 permalink: /teaching/
 title: "Teaching Assistant"
 author_profile: true
+published: false
 ---
 
 ------
