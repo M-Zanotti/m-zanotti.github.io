@@ -17,21 +17,19 @@ Working Papers
 
 <span style="display:block; font-size:1.10em; margin-bottom:0px;">
   **1. Asset (and Data) Managers** &ensp;
-<span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
+  <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
+</span>
 *Recipient of the Inquire Europe 2025 Research Prize*\
 *WFA Brattle Group Ph.D. Candidate Award*\
 *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper* 
-<br style="display:block; margin:2px 0 0; line-height:0">
+<br style="line-height:0.05em;">
 ▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF, FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
                                               SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               Conference<sup>*</sup> </span> \
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
-
-
-
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
 I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
