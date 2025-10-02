@@ -18,9 +18,9 @@ My research focuses on the impact of **new technologies on Financial Markets and
 
 My research is on **Information and Financial Markets**, with a focus on:
 
-* Institutional Investors
 * Data Economy
-* Asset Management
+* Institutional Investors
+* Role of New Technologies in Finance
 
 
 Job Market Paper
