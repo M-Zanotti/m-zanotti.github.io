@@ -20,7 +20,7 @@ My research is on **Information and Financial Markets**, with a focus on:
 
 * Data Economy
 * Institutional Investors
-* Role of New Technologies in Finance
+* Asset Pricing
 
 
 Job Market Paper
