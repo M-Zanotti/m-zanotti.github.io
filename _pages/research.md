@@ -29,7 +29,7 @@ Working Papers
                                               32<sup>nd</sup> Finance Forum, SGF Conference, Annual Financial Markets and Liquidity Conference, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               SFI Research Days</span> 
-<div style="margin-top:-0.35em;"></div>
+<div style="margin-top:-2.0em;"></div>
 ➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
