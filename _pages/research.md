@@ -19,16 +19,16 @@ Working Papers
   **1. Asset (and Data) Managers** &ensp;
   <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
-*Recipient of the INQUIRE Europe 2025 Research Prize*\
-*WFA Brattle Group Ph.D. Candidate Award*\
-*INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
-*Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
-*FMARC Best Ph.D. Student Paper* 
+⬝ *Recipient of the INQUIRE Europe 2025 Research Prize*\
+⬝ *WFA Brattle Group Ph.D. Candidate Award*\
+⬝ *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
+⬝ *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
+⬝ *FMARC Best Ph.D. Student Paper* 
 <br style="line-height:2.0em;">
-▪ <span class="light-grey">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
+➤ <span class="light-grey">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF Conference, Annual Financial Markets and Liquidity Conference, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, <br>&nbsp;&nbsp;&nbsp;&nbsp;
-                                              SFI Research Days <br style="line-height:2.0em;">
+                                              SFI Research Days <br style="line-height:3.0em;">
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
