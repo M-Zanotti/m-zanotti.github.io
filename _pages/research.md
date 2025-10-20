@@ -25,10 +25,10 @@ Working Papers
 *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 *FMARC Best Ph.D. Student Paper* 
 <br style="line-height:2.0em;">
-▪ <span class="light-grey">Main Presentations: WFA, 7<sup>th</sup> Future of Financial Information Conference, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
-                                              32<sup>nd</sup> Finance Forum, SGF, FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
-                                              SFI Research Days, HEC Paris PhD Workshop, Annual Financial Markets and Liquidity <br>&nbsp;&nbsp;&nbsp;&nbsp;
-                                              Conference<sup>*</sup> </span> \
+▪ <span class="light-grey">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                              32<sup>nd</sup> Finance Forum, SGF Conference, Annual Financial Markets and Liquidity Conference, <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                              FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, 
+                                              SFI Research Days, HEC Paris PhD Workshop \
 ▪ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the direct impact of new technologies on the asset management industry.<br> 
