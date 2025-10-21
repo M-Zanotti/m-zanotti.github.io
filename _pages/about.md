@@ -37,12 +37,14 @@ Job Market Paper
 ⬝ *FMARC Best Ph.D. Student Paper*\
 ➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
-This paper studies the direct impact of new technologies on the asset management industry.<br> 
-I show that technological innovations substantially improve fund managers’ ability to target customer demand and attract capital inflows, with implications for the industry’s structure.
-Exploiting information from their websites’ codes, I track when fund managers start collecting and analyzing customers’ data using tools like Google Analytics.<br> 
-Funds adopting such technologies attract 1.5% higher annual flows, with the eﬀect being concentrated in retail share classes. Additionally, they expand product oﬀerings and charge higher fees. The eﬀects decrease with competition as more funds within the same category adopt similar technologies. <br> 
-Overall, these results show that technological innovation in asset management extends beyond portfolio allocation decisions to impact how funds attract and retain capital. 
-This evidence highlights the economic importance of managers learning from investors’ data.
+This paper studies whether asset management companies use customer data to attract capital.<br>
+Exploiting information from their websites' codes, I track when fund managers begin collecting and analyzing data on their potential customers using tools like Google Analytics or A/B testing.
+I show that funds adopting such technologies attract 1.5% higher annual flows and charge higher fees, despite no improvement in performance.
+These results are concentrated in retail share classes and decline with competition as more rival funds adopt similar tools.
+At the fund-family level, adopters expand their product offerings, and new funds focus more on retail-oriented themes.
+Within existing funds, I find evidence of changes in prospectus content and greater sales efforts rather than product differentiation.
+Overall, data technologies allow managers to raise more capital and charge higher fees, without passing these monetary gains on to investors.
+Technological innovation in asset management extends beyond portfolio allocation decisions, and it affects how funds attract and retain capital.   
 <br>
 </div>
 
