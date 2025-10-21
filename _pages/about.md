@@ -23,14 +23,14 @@ My research is on **Information and Financial Markets**, with a focus on:
 * Asset Pricing
 
 
-<hr style="margin-top:1.5em; margin-bottom:0.5em; border: 0; border-top: 1px solid #aaa;">
+<hr style="margin-top:1.5em; margin-bottom:0.5em; border:0; border-top:1px solid #aaa;">
 
-<span style="display:block; font-size:1.3em; font-weight:bold; margin-bottom:0.2em;">
+<span style="display:block; font-size:1.3em; font-weight:bold; margin-bottom:0.1em;">
   Job Market Paper
 </span>
 
 
-<span style="display:block; font-size:1.2em; margin-top:0.2em; margin-bottom:5px;">
+<span style="display:block; font-size:1.2em; margin-top:0.1em; margin-bottom:5px;">
   **Asset (and Data) Managers**
 </span>
 ⬝ *Recipient of the INQUIRE Europe 2025 Research Prize*\
