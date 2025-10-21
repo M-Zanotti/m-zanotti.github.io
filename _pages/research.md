@@ -24,7 +24,7 @@ Working Papers
 ⬝ *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 ⬝ *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 ⬝ *FMARC Best Ph.D. Student Paper* 
-<div style="margin-top:2.0em;"></div>
+<div style="margin-top:0.5em;"></div>
 ➢ <span class="light-grey">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF Conference, Annual Financial Markets and Liquidity Conference, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, <br>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,6 +48,7 @@ Working Papers
 **2. Financial Intermediaries and Demand for Duration**\
    with [Andrea Tamoni](https://www.andreatamoni.com/) and [Alberto Plazzi](https://sites.google.com/site/albertoplazzihome/home)\
 This version: October 2025\
+<div style="margin-top:0.5em;"></div>
 ➢ <span class="light-grey">Main Presentations: MFA, 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                                7<sup>th</sup> World Symposium on Investment Research, SFI Research Days, 1<sup>st</sup> IFEA Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
                                                SGF Conference, EUROFIDAI Paris December Finance Meeting<sup>*</sup></span>
