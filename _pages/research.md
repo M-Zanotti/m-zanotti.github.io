@@ -43,6 +43,7 @@ Working Papers
   to investors. Technological innovation in asset management extends beyond portfolio allocation decisions, and it affects how
   funds attract and retain capital.
 </div>
+<br style="line-height:0.10em;">
 
 
 **2. Financial Intermediaries and Demand for Duration**\
