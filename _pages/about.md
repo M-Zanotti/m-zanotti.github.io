@@ -37,6 +37,7 @@ Job Market Paper
 ⬝ *FMARC Best Ph.D. Student Paper*\
 ➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.2; margin-top:0.4em; margin-bottom:0;">
+  <div style="margin-top:-0.8em;"></div>
   This paper studies whether asset management companies use customer data to attract capital.
   Exploiting information from their websites' codes, I track when fund managers begin collecting and analyzing data
   on their potential customers using tools like Google Analytics or A/B testing. I show that funds adopting such
