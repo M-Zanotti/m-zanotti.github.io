@@ -1,4 +1,4 @@
-"---
+---
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -24,14 +24,14 @@ Working Papers
 ⬝ *INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum*\
 ⬝ *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 ⬝ *FMARC Best Ph.D. Student Paper* 
-<div style="margin-top:-0.4em;"></div>   <!-- (1) tighter space -->
+<div style="margin-top:-0.4em;"></div>
 ➢ <span class="light-grey">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA, USI Lugano,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               32<sup>nd</sup> Finance Forum, SGF Conference, Annual Financial Markets and Liquidity Conference, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               SFI Research Days</span> 
-<div style="margin-top:-1.0em;"></div>
+<div style="margin-top:-1.2em;"></div>
 ➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
-<div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.25; margin-top:0.1em; margin-bottom:0;">
+<div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.2; margin-top:0.4em; margin-bottom:0;">
   This paper studies whether asset management companies use customer data to attract capital.
   Exploiting information from their websites' codes, I track when fund managers begin collecting and analyzing data
   on their potential customers using tools like Google Analytics or A/B testing. I show that funds adopting such
@@ -43,31 +43,29 @@ Working Papers
   to investors. Technological innovation in asset management extends beyond portfolio allocation decisions, and it affects how
   funds attract and retain capital.
 </div>
-<br style="line-height:0.05em;">
+<br style="line-height:0.10em;">
 
 
 **2. Financial Intermediaries and Demand for Duration**\
    with [Andrea Tamoni](https://www.andreatamoni.com/) and [Alberto Plazzi](https://sites.google.com/site/albertoplazzihome/home)\
 This version: October 2025
-<div style="margin-top:-0.5em;"></div>  
+<div style="margin-top:-0.4em;"></div>
 ➢ <span class="light-grey">Main Presentations: MFA, 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors,<br>&nbsp;&nbsp;&nbsp;&nbsp;
                                                7<sup>th</sup> World Symposium on Investment Research, SFI Research Days, 1<sup>st</sup> IFEA Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
                                                SGF Conference, EUROFIDAI Paris December Finance Meeting<sup>*</sup></span>
-<div style="margin-top:-1.0em;"></div>
+<div style="margin-top:-1.2em;"></div>
 ➢ Abstract <a href="#/" onclick="visib('Fin_DemandDur')">[+]</a> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)\] \[[PDF](../files/Financial_Intermediaries_and_Demand_for_Duration.pdf)\]
-<div id="Fin_DemandDur" style="display:none; text-align:justify; line-height:1.25; margin-top:0.1em; margin-bottom:0;">
+<div id="Fin_DemandDur" style="display: none; text-align: justify; line-height: 1.2" >
 Stocks with long-term cash flows earn lower expected returns because they hedge fluctuations in investment opportunities. We study the role of financial institutions in shaping this duration premium using equity holdings of primary dealers, pension funds, banks, and insurance companies. We find that intermediaries’ demand for equity duration varies systematically with their risk-bearing capacity. In the time series, institutions reduce their demand for long-duration claims and increase their exposure to reinvestment risk when aggregate capital ratios are low. Such a result extends cross-sectionally: better-capitalized and better-performing institutions tilt their portfolios more strongly toward long-duration stocks than their constrained peers. These patterns align with an ICAPM framework in which hedging demand declines with risk aversion. Counterfactual exercises show that shifts in intermediaries’ preferences generate monotonic changes in expected returns across duration deciles, with especially large effects when demand shocks operate at the holding-company level.
-  <br><br style="line-height:0.2em;">
+<br> <br style="line-height:0.30em;"> 
 <IMG src="../files/01_PrimaryDealers_durDemand_andHKM_.png"  alt="Fin_DemandDur"/>
-</div>
-<br style="line-height:0.05em;">
-
+</div> <br style="line-height:0.10em;">
 
 
 
 **3. Are New Technologies Replacing the Information Produced by Financial Markets?**\
    with [Laurent Frésard](https://sites.google.com/view/laurentfresard/home)
-"
+
 
 
 
