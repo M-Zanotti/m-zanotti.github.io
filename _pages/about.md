@@ -25,7 +25,7 @@ My research is on **Information and Financial Markets**, with a focus on:
 
 <hr style="margin-top:1.5em; margin-bottom:0.25em; border:0; border-top:1px solid #aaa;">
 
-<span style="display:block; font-size:1.3em; font-weight:bold; margin-bottom:0.1em;">
+<span style="display:block; font-size:1.3em; font-weight:bold; margin-bottom:0.0em;">
   Job Market Paper
 </span>
 
