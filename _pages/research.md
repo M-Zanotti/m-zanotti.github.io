@@ -31,17 +31,20 @@ Working Papers
                                               SFI Research Days</span> 
 <div style="margin-top:-1.2em;"></div>
 ➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
-<div id="MFData_Econ" style="display: none; text-align: justify; line-height: 1.2" >
-This paper studies whether asset management companies use customer data to attract capital.
-Exploiting information from their websites' codes, I track when fund managers begin collecting and analyzing data on their potential customers using tools like Google Analytics or A/B testing.
-I show that funds adopting such technologies attract 1.5% higher annual flows and charge higher fees, despite no improvement in performance.
-These results are concentrated in retail share classes and decline with competition as more rival funds adopt similar tools.
-At the fund-family level, adopters expand their product offerings, and new funds focus more on retail-oriented themes.
-Within existing funds, I find evidence of changes in prospectus content and greater sales efforts rather than product differentiation.
-Overall, data technologies allow managers to raise more capital and charge higher fees, without passing these monetary gains on to investors.
-Technological innovation in asset management extends beyond portfolio allocation decisions, and it affects how funds attract and retain capital.   
-<br>
-</div> <br style="line-height:0.10em;">
+<div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.4;">
+  This paper studies whether asset management companies use customer data to attract capital.
+  Exploiting information from their websites' codes, I track when fund managers begin collecting
+  and analyzing data on their potential customers using tools like Google Analytics or A/B testing.
+  I show that funds adopting such technologies attract 1.5% higher annual flows and charge higher fees,
+  despite no improvement in performance. These results are concentrated in retail share classes and decline
+  with competition as more rival funds adopt similar tools. At the fund-family level, adopters expand their
+  product offerings, and new funds focus more on retail-oriented themes. Within existing funds, I find evidence
+  of changes in prospectus content and greater sales efforts rather than product differentiation. Overall, data
+  technologies allow managers to raise more capital and charge higher fees, without passing these monetary
+  gains on to investors. Technological innovation in asset management extends beyond portfolio allocation
+  decisions, and it affects how funds attract and retain capital.
+</div>
+<br style="line-height:0.10em;">
 
 
 **2. Financial Intermediaries and Demand for Duration**\
