@@ -39,7 +39,7 @@ My research is on **Information and Financial Markets**, with a focus on:
 ⬝ *Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference*\
 ⬝ *FMARC Best Ph.D. Student Paper*
 <div style="margin-top:-1.0em;"></div>
-➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
+➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> \[[PDF](../files/JMP_MarcoZanotti.pdf)\]
 <div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.25; margin-top:0.4em; margin-bottom:0;">
   <div style="margin-top:-0.8em;"></div>
   This paper studies whether asset management companies use customer data to attract capital.

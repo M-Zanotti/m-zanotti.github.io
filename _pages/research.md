@@ -30,7 +30,7 @@ Working Papers
                                               FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               SFI Research Days</span> 
 <div style="margin-top:-1.2em;"></div>
-➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
+➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> \[[PDF](../files/JMP_MarcoZanotti.pdf)\]
 <div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.25; margin-top:0.4em; margin-bottom:0;">
   <div style="margin-top:-0.8em;"></div>
   This paper studies whether asset management companies use customer data to attract capital.
