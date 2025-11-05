@@ -47,7 +47,7 @@ Working Papers
 <br style="line-height:0.10em;">
 
 
-**2. Financial Intermediaries and Demand for Duration**\
+**2. Financial Intermediaries and Demand for Duration** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:0.8em;">[SSRN]</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046) [<span style="font-size:0.8em;">[PDF]</span>](../files/Financial_Intermediaries_and_Demand_for_Duration.pdf)\
    with [Andrea Tamoni](https://www.andreatamoni.com/) and [Alberto Plazzi](https://sites.google.com/site/albertoplazzihome/home)\
 This version: October 2025
 <div style="margin-top:-1.0em;"></div>
