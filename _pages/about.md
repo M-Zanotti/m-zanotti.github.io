@@ -31,7 +31,7 @@ My research is on **Information and Financial Markets**, with a focus on:
 
 
 <span style="display:block; font-size:1.2em; margin-top:0.1em; margin-bottom:5px;">
-**Asset (and Data) Managers** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:0.9em;">PDF</span>](../files/JMP_MarcoZanotti.pdf)
+**Asset (and Data) Managers** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:0.8em;">[PDF]</span>](../files/JMP_MarcoZanotti.pdf)
 </span>
 ⬝ *Recipient of the INQUIRE Europe 2025 Research Prize*\
 ⬝ *WFA Brattle Group Ph.D. Candidate Award*\
