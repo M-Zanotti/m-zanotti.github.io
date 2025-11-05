@@ -30,7 +30,7 @@ Working Papers
                                               FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, <br>&nbsp;&nbsp;&nbsp;&nbsp;
                                               SFI Research Days</span> 
 <div style="margin-top:-1.2em;"></div>
-➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> \[[PDF](../files/JMP_MarcoZanotti.pdf)\]
+➢ Abstract <a href="#/" onclick="visib('MFData_Econ')">[+]</a> 
 <div id="MFData_Econ" style="display:none; text-align:justify; line-height:1.25; margin-top:0.4em; margin-bottom:0;">
   <div style="margin-top:-0.8em;"></div>
   This paper studies whether asset management companies use customer data to attract capital.
@@ -55,7 +55,7 @@ This version: October 2025
                                                7<sup>th</sup> World Symposium on Investment Research, SFI Research Days, 1<sup>st</sup> IFEA Conference,<br>&nbsp;&nbsp;&nbsp;&nbsp; 
                                                SGF Conference, EUROFIDAI Paris December Finance Meeting<sup>*</sup></span>
 <div style="margin-top:-1.2em;"></div>
-➢ Abstract <a href="#/" onclick="visib('Fin_DemandDur')">[+]</a> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046)\] \[[PDF](../files/Financial_Intermediaries_and_Demand_for_Duration.pdf)\]
+➢ Abstract <a href="#/" onclick="visib('Fin_DemandDur')">[+]</a> 
 <div id="Fin_DemandDur" style="display: none; text-align: justify; line-height: 1.2" >
   <div style="margin-top:-0.8em;"></div>
 Stocks with long-term cash flows earn lower expected returns because they hedge fluctuations in investment opportunities. We study the role of financial institutions in shaping this duration premium using equity holdings of primary dealers, pension funds, banks, and insurance companies. We find that intermediaries’ demand for equity duration varies systematically with their risk-bearing capacity. In the time series, institutions reduce their demand for long-duration claims and increase their exposure to reinvestment risk when aggregate capital ratios are low. Such a result extends cross-sectionally: better-capitalized and better-performing institutions tilt their portfolios more strongly toward long-duration stocks than their constrained peers. These patterns align with an ICAPM framework in which hedging demand declines with risk aversion. Counterfactual exercises show that shifts in intermediaries’ preferences generate monotonic changes in expected returns across duration deciles, with especially large effects when demand shocks operate at the holding-company level.
