@@ -16,7 +16,7 @@ Working Papers
 -->
 
 <span style="display:block; font-size:1.10em; margin-bottom:5px;">
-  **1. Asset (and Data) Managers** &ensp;
+**Asset (and Data) Managers** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:0.8em;">[PDF]</span>](../files/JMP_MarcoZanotti.pdf) &ensp;
   <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
 ⬝ *Recipient of the INQUIRE Europe 2025 Research Prize*\
