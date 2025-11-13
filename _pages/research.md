@@ -16,7 +16,7 @@ Working Papers
 -->
 
 <span style="display:block; font-size:1.10em; margin-bottom:5px;">
-**Asset (and Data) Managers** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:0.8em;">[PDF]</span>](../files/JMP_MarcoZanotti.pdf) &ensp;
+**Asset (and Data) Managers** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:1.0em;">[SSRN]</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5734507) [<span style="font-size:0.8em;">[PDF]</span>](../files/JMP_MarcoZanotti.pdf) &ensp;
   <span style="font-variant-caps: small-caps; white-space:nowrap; color:dimgray;">Job Market Paper</span>
 </span>
 ⬝ *Recipient of the INQUIRE Europe 2025 Research Prize*\
