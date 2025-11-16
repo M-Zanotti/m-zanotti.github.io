@@ -65,8 +65,21 @@ Stocks with long-term cash flows earn lower expected returns because they hedge 
 
 
 
-**3. Are New Technologies Replacing the Information Produced by Financial Markets?**\
+**3. Are New Technologies Replacing the Information Produced by Financial Markets?** <span style="display:inline-block; width:4pt;"></span> [<span style="font-size:1.0em;">[PDF]</span>](../files/Managers_Data.pdf)\
    with [Laurent Frésard](https://sites.google.com/view/laurentfresard/home)
+<div style="margin-top:-1.2em;"></div>
+➢ Abstract <a href="#/" onclick="visib('Managers_Data')">[+]</a> 
+<div id="Managers_Data" style="display:none; text-align:justify; line-height:1.25; margin-top:0.4em; margin-bottom:0;">
+  <div style="margin-top:-0.8em;"></div>
+  Using the staggered adoption of data technologies providing firms with novel insights about their customers, 
+  we show that their investment becomes significantly less sensitive to non-fundamental stock price movements after adoption. 
+  The effect is consistent with data technologies improving managers' internal information about future demand, 
+  thereby reducing their reliance on stock market signals. 
+  This ``replacement effect'' is robust to alternative explanations and reverses under data-privacy restrictions.
+  Our findings suggest that the diffusion of data technologies weakens the informational
+  role of stock prices in guiding real investment decisions.
+</div>
+<br style="line-height:0.10em;">
 
 
 
