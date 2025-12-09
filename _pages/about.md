@@ -18,10 +18,9 @@ My research focuses on the impact of **new technologies on Financial Markets and
 
 My research is on **Information and Financial Markets**, with a focus on:
 
-* Institutional Investors
-* Asset Pricing
-* Price Informativeness and Real Effects
 * Data Economy
+* Institutional Investors
+* Price Informativeness and Real Effects
 
 
 <hr style="margin-top:1.5em; margin-bottom:0.25em; border:0; border-top:1px solid #aaa;">
