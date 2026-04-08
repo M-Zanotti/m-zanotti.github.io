@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano. \
-I will be on the 2025-2026 academic job market.
 
 <!---
 My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
