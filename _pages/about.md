@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano. \
+I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano.
 
 <!---
 My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
