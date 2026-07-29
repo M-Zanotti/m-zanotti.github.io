@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Finance at the *Swiss Finance Institute* at USI Lugano.
+*Assistant Professor of Finance*
 
 <!---
 My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
 -->
 
+Stockholm School of Economics
+Swedish House of Finance
 
 My research is on **Information and Financial Markets**, with a focus on:
 
@@ -92,12 +94,11 @@ I am currently studying how firms use data to improve performance.
 ## Contact
 
 <address>
-  USI Lugano<br /> Via Buffi 13, Lugano - 6900<br /> Switzerland
+  Stockholm School of Economics<br /> Bertil Ohlins Gata 4, Stockholm - 113 50<br /> Sweden
 </address>
 
 
-
-`marco.zanotti[at]usi.ch`
+`marco.zanotti[at]hhs.se`
 
 
 ------

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marco Zanotti"
 title_separator          : "-"
 name                     : &name "Marco Zanotti"
-description              : &description "Swiss Finance Institute, and USI Lugano"
+description              : &description "Stockholm School of Economics, Swedish House of Finance"
 url                      : https://marco-zanotti.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "M-Zanotti/m-zanotti.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marco Zanotti"
   avatar           : "profile_2.jpg"
-  bio              : "PhD Student in Finance <br /> Swiss Finance Institute @USI" 
-  location         : "Lugano, Switzerland"
+  bio              : "Stockholm School of Economics<br />Swedish House of Finance" 
+  location         : "Stockholm, Sweden"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "marco.zanotti@usi.ch"
+  email            : "marco.zanotti@hhs.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
