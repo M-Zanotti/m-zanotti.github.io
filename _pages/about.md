@@ -14,8 +14,9 @@ redirect_from:
 My research focuses on the impact of **new technologies on Financial Markets and Institutions**.
 -->
 
-Stockholm School of Economics
-Swedish House of Finance
+
+Stockholm School of Economics<br /> Swedish House of Finance
+
 
 My research is on **Information and Financial Markets**, with a focus on:
 
