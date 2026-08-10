@@ -1,0 +1,262 @@
+/* ==========================================================================
+   Marco Zanotti — personal website
+   Design adapted from benjaminschiffer.com: navy accent, Inter headings,
+   Source Sans 3 body, white cards on light background, subtle fade-ins.
+   ========================================================================== */
+
+:root {
+  --navy: #00455e;
+  --navy-hover: #005a7a;
+  --navy-lightest: #e6f0f3;
+  --text: #374151;
+  --text-dark: #111827;
+  --text-muted: #6b7280;
+  --text-light: #9ca3af;
+  --bg: #f7f9fa;
+  --card-bg: #ffffff;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; scrollbar-gutter: stable; }
+
+body {
+  margin: 0;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: var(--text);
+  background: var(--bg);
+}
+
+h1, h2, h3, .nav-name {
+  font-family: "Inter", sans-serif;
+  color: var(--text-dark);
+  line-height: 1.25;
+}
+
+a { color: var(--navy); text-decoration: none; }
+a:hover { color: var(--navy-hover); text-decoration: underline; }
+
+.container {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* --- Navigation bar ------------------------------------------------------ */
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
+}
+
+.nav-name {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: var(--text-dark);
+}
+.nav-name:hover { color: var(--navy); text-decoration: none; }
+
+.nav-links a {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 500;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+}
+.nav-links a:hover { color: var(--navy); text-decoration: none; }
+.nav-links a.active { color: var(--navy); font-weight: 700; }
+
+/* --- Page content --------------------------------------------------------- */
+
+.page-content { padding: 3rem 1.5rem; }
+
+/* --- Hero (home page) ----------------------------------------------------- */
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  background: linear-gradient(135deg, #ffffff, var(--navy-lightest));
+  padding: 2.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+}
+
+.hero-photo img {
+  width: 11rem;
+  height: 11rem;
+  border-radius: 9999px;
+  object-fit: cover;
+  border: 2px solid var(--navy);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.15);
+  display: block;
+}
+
+.hero-text h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin: 0 0 0.25rem 0;
+}
+
+.hero-title {
+  font-size: 1.1rem;
+  color: var(--navy);
+  font-weight: 600;
+  margin: 0 0 0.25rem 0;
+}
+
+.hero-affiliation {
+  color: var(--text-muted);
+  margin: 0 0 1rem 0;
+}
+
+/* --- Social icons --------------------------------------------------------- */
+
+.social-links { margin-top: 1.25rem; }
+
+.social-links a {
+  color: var(--text-muted);
+  font-size: 1.5rem;
+  margin-right: 1.1rem;
+}
+.social-links a:hover { color: var(--navy); text-decoration: none; }
+
+/* --- Sections & cards ----------------------------------------------------- */
+
+section { margin-top: 3rem; }
+
+section h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 1.5rem 0;
+}
+
+.card {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Paper cards (research page) */
+.paper-card {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.paper-card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.12);
+  transform: scale(1.015);
+}
+
+.paper-card h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin: 0 0 0.35rem 0;
+}
+
+.paper-tag {
+  font-variant-caps: small-caps;
+  font-weight: 600;
+  color: var(--text-muted);
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
+.paper-authors { color: var(--text-muted); font-size: 0.95rem; margin: 0 0 0.35rem 0; }
+.paper-awards  { color: var(--text-muted); font-size: 0.92rem; font-style: italic; margin: 0.35rem 0; }
+.paper-awards li { margin-bottom: 0.1rem; }
+.paper-awards ul { margin: 0.2rem 0 0 0; padding-left: 1.1rem; list-style: "\2022  "; }
+.paper-presentations { color: var(--text-light); font-size: 0.9rem; margin: 0.35rem 0; }
+
+.paper-links { margin-top: 0.6rem; font-size: 0.92rem; font-weight: 600; }
+.paper-links a { margin-right: 0.9rem; }
+
+/* Abstract toggle */
+.paper-card details { margin-top: 0.6rem; }
+.paper-card summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--navy);
+}
+.paper-card summary:hover { color: var(--navy-hover); }
+.paper-card details p, .paper-card details div {
+  text-align: justify;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 0.5rem;
+}
+.paper-card details img { max-width: 100%; margin-top: 0.75rem; }
+
+/* --- Contact -------------------------------------------------------------- */
+
+.contact-card address { font-style: normal; line-height: 1.7; }
+.contact-email { margin-top: 0.75rem; }
+.contact-email code {
+  background: var(--navy-lightest);
+  padding: 0.15rem 0.45rem;
+  border-radius: 0.25rem;
+  font-size: 0.95rem;
+}
+
+/* --- CV page -------------------------------------------------------------- */
+
+.cv-embed {
+  width: 100%;
+  height: 85vh;
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background: var(--card-bg);
+}
+
+.cv-download { margin-bottom: 1rem; }
+
+/* --- Fade-in animation ---------------------------------------------------- */
+
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.fade-in-section.is-visible { opacity: 1; transform: none; }
+
+/* --- Footer --------------------------------------------------------------- */
+
+.site-footer {
+  margin-top: 4rem;
+  padding: 1.5rem 0;
+  text-align: center;
+  color: var(--text-light);
+  font-size: 0.9rem;
+}
+
+/* --- Mobile --------------------------------------------------------------- */
+
+@media (max-width: 640px) {
+  .hero { flex-direction: column; text-align: center; padding: 1.75rem; }
+  .hero-photo img { margin: 0 auto; }
+  .hero-text h1 { font-size: 1.6rem; }
+  .nav-links a { padding: 0.5rem 0.4rem; font-size: 0.9rem; }
+  .page-content { padding: 2rem 1rem; }
+  .cv-embed { height: 70vh; }
+}
