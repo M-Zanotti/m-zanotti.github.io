@@ -12,6 +12,10 @@ permalink: /research/
 <!-- ======================= Paper 1: JMP ======================= -->
 <div class="paper-card fade-in-section">
   <h3>Asset (and Data) Managers</h3>
+  <div class="paper-links">
+    <a href="{{ '/files/JMP_MarcoZanotti.pdf' | relative_url }}" target="_blank">PDF</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5734507" target="_blank">SSRN</a>
+  </div>
   <p class="paper-presentations">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA,
      SGF Conference, 32<sup>nd</sup> Finance Forum, 2<sup>nd</sup> EDHEC AI & Finance Workshop, 3f Finance Future Fest, Annual Financial Markets and Liquidity Conference,
      FMARC Doctoral Tutorial, Trans-Atlantic Doctoral Conference, HEC Paris PhD Workshop, SFI Research Days</p>
@@ -30,10 +34,6 @@ permalink: /research/
       funds attract and retain capital.
       </p>
   </details>
-  <div class="paper-links">
-    <a href="{{ '/files/JMP_MarcoZanotti.pdf' | relative_url }}" target="_blank">PDF</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5734507" target="_blank">SSRN</a>
-  </div>
     <div class="paper-awards">
     <ul>
       <li>Recipient of the INQUIRE Europe 2025 Research Prize</li>
@@ -50,6 +50,10 @@ permalink: /research/
 <!-- ======================= Paper 2 ======================= -->
 <div class="paper-card fade-in-section">
   <h3>Financial Intermediaries and Demand for Duration</h3>
+  <div class="paper-links">
+    <a href="{{ '/files/Financial_Intermediaries_and_Demand_for_Duration.pdf' | relative_url }}" target="_blank">PDF</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046" target="_blank">SSRN</a>
+  </div>
   <p class="paper-authors">with <a href="https://www.andreatamoni.com/" target="_blank">Andrea Tamoni</a> and <a href="https://sites.google.com/site/albertoplazzihome/home" target="_blank">Alberto Plazzi</a></p>
   <p class="paper-presentations">Main Presentations: MFA, 4<sup>th</sup> LTI@UniTO/Bank of Italy Workshop on Long-Term Investors,
      7<sup>th</sup> World Symposium on Investment Research, SFI Research Days, 1<sup>st</sup> IFEA Conference,
@@ -69,10 +73,6 @@ permalink: /research/
       </p>
     <img src="{{ '/files/01_PrimaryDealers_durDemand_andHKM_.png' | relative_url }}" alt="Primary dealers duration demand">
   </details>
-  <div class="paper-links">
-    <a href="{{ '/files/Financial_Intermediaries_and_Demand_for_Duration.pdf' | relative_url }}" target="_blank">PDF</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605046" target="_blank">SSRN</a>
-  </div>
 </div>
 
 
