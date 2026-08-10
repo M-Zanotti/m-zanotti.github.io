@@ -17,15 +17,6 @@ description: "Working papers by Marco Zanotti on institutional investors, asset 
     <a href="{{ '/files/JMP_MarcoZanotti.pdf' | relative_url }}" target="_blank">PDF</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5734507" target="_blank">SSRN</a>
   </div>
-  <div class="paper-awards">
-    <ul>
-      <li>Recipient of the INQUIRE Europe 2025 Research Prize</li>
-      <li>WFA Brattle Group Ph.D. Candidate Award</li>
-      <li>INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum</li>
-      <li>Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference</li>
-      <li>FMARC Best Ph.D. Student Paper</li>
-    </ul>
-  </div>
   <p class="paper-presentations">Main Presentations: 7<sup>th</sup> Future of Financial Information Conference, WFA,
                                                      SGF Conference, 32<sup>nd</sup> Finance Forum, Trans-Atlantic Doctoral Conference, Annual Financial Markets and Liquidity Conference, 
                                                      2<sup>th</sup> EDHEC AI & Finance Workshop, 3(f) Future Finance Fest, FMARC Doctoral Tutorial, HEC Paris PhD Workshop, SFI Research Days</p>
@@ -44,6 +35,15 @@ description: "Working papers by Marco Zanotti on institutional investors, asset 
       funds attract and retain capital.
       </p>
   </details>
+  <div class="paper-awards">
+    <ul>
+      <li>Recipient of the INQUIRE Europe 2025 Research Prize</li>
+      <li>WFA Brattle Group Ph.D. Candidate Award</li>
+      <li>INVERCO Best Paper in Asset Management at 32<sup>nd</sup> Finance Forum</li>
+      <li>Best Ph.D. Student Paper at the 7<sup>th</sup> FutFinInfo Conference</li>
+      <li>FMARC Best Ph.D. Student Paper</li>
+    </ul>
+  </div>
 </div>
 
 <!-- ======================= Paper 2 ======================= -->
