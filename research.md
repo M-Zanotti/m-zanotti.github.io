@@ -88,7 +88,7 @@ permalink: /research/
       Firms are increasingly collecting and analyzing data. 
       After adopting technologies to exploit customer data collected from their website, firms' investment becomes less sensitive to their stock price. 
       This effect is consistent with a model in which data technologies improves managers' internal information about future demand, and reduces their reliance on stock prices for that information. 
-      This ``replacement effect'' is robust to alternative explanations and reverses when data usage is limited by privacy restrictions. 
+      This ''replacement effect'' is robust to alternative explanations and reverses when data usage is limited by privacy restrictions. 
       Our findings suggest that the diffusion of data technologies weakens the informational role of financial markets in guiding firms' investment decisions.
       </p>
   </details>
