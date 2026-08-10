@@ -14,6 +14,10 @@ author:
 markdown: kramdown
 permalink: pretty
 
+# Generates sitemap.xml automatically (supported natively by GitHub Pages)
+plugins:
+  - jekyll-sitemap
+
 exclude:
   - README.md
   - Gemfile

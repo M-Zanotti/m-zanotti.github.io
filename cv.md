@@ -2,6 +2,7 @@
 layout: default
 title: CV
 permalink: /cv/
+description: "Curriculum Vitae of Marco Zanotti, Assistant Professor of Finance at the Stockholm School of Economics, Swedish House of Finance."
 ---
 
 <h1 style="font-size:1.75rem; font-weight:800;">Curriculum Vitae</h1>
