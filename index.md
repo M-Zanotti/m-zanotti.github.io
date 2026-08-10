@@ -11,7 +11,7 @@ permalink: /
   <div class="hero-text">
     <h1>Marco Zanotti</h1>
     <p class="hero-title">Assistant Professor of Finance</p>
-    <p class="hero-affiliation">Stockholm School of Economics<br>Swedish House of Finance</p>
+    <p class="hero-affiliation">Stockholm School of Economics | Swedish House of Finance</p>
 
     <p>My research is on <strong>Information and Financial Markets</strong>, with a focus on:</p>
     <ul>
